@@ -43,11 +43,11 @@ area. To unzalgo a text put it in the text are below the `Text input areas` and 
 
 ## GitHub Actions
 
-[![Node.js CI](https://github.com/Im-Rises/zalgo-generato-tauri/actions/workflows/node.js.yml/badge.svg)](https://github.com/Im-Rises/zalgo-generato-tauri/actions/workflows/node.js.yml)
-[![ESLint](https://github.com/Im-Rises/zalgo-generato-tauri/actions/workflows/eslint.yml/badge.svg)](https://github.com/Im-Rises/zalgo-generato-tauri/actions/workflows/eslint.yml)
-[![CodeQL](https://github.com/Im-Rises/zalgo-generato-tauri/actions/workflows/codeql.yml/badge.svg)](https://github.com/Im-Rises/zalgo-generato-tauri/actions/workflows/codeql.yml)
-[![Tauri](https://github.com/Im-Rises/zalgo-generato-tauri/actions/workflows/tauri.yml/badge.svg)](https://github.com/Im-Rises/zalgo-generato-tauri/actions/workflows/tauri.yml)
-[![tauri publish](https://github.com/Im-Rises/zalgo-generato-tauri/actions/workflows/tauri-publish.yml/badge.svg)](https://github.com/Im-Rises/zalgo-generato-tauri/actions/workflows/tauri-publish.yml)
+[![Node.js CI](https://github.com/Im-Rises/zalgo-generator-tauri/actions/workflows/node.js.yml/badge.svg)](https://github.com/Im-Rises/zalgo-generator-tauri/actions/workflows/node.js.yml)
+[![ESLint](https://github.com/Im-Rises/zalgo-generator-tauri/actions/workflows/eslint.yml/badge.svg)](https://github.com/Im-Rises/zalgo-generator-tauri/actions/workflows/eslint.yml)
+[![CodeQL](https://github.com/Im-Rises/zalgo-generator-tauri/actions/workflows/codeql.yml/badge.svg)](https://github.com/Im-Rises/zalgo-generator-tauri/actions/workflows/codeql.yml)
+[![Tauri](https://github.com/Im-Rises/zalgo-generator-tauri/actions/workflows/tauri.yml/badge.svg)](https://github.com/Im-Rises/zalgo-generator-tauri/actions/workflows/tauri.yml)
+[![tauri publish](https://github.com/Im-Rises/zalgo-generator-tauri/actions/workflows/tauri-publish.yml/badge.svg)](https://github.com/Im-Rises/zalgo-generator-tauri/actions/workflows/tauri-publish.yml)
 
 The project is set up to run the following actions:
 
